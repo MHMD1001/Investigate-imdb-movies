@@ -1,7 +1,7 @@
 # Movie Data Analysis Readme
 This repository contains the code and analysis for a project focused on analyzing a dataset containing information about 10,000 movies collected from The Movie Database (IMDb). The analysis was conducted using Python and several popular libraries such as NumPy, pandas, and Matplotlib. The main goal of the project was to answer a series of questions related to movie production, popularity, revenue, and user ratings.
 
-# Project Overview
+# Project Overview 
 The primary aim of this project was to perform data analysis on a movie dataset to gain insights into various aspects of the movie industry. The analysis process involved cleaning and exploring the dataset, extracting relevant information, and visualizing the findings to address the following questions:
 
 Number of Movies Produced Every Year: The project aimed to determine the number of movies produced each year, providing an overview of the industry's growth over time.
